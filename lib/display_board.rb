@@ -3,7 +3,7 @@
 
 def display_board
   row = ["   |   |   "]
-  dash = ["-"]*11 
+  dash = "-"*11 
   puts row
   print String(dash)
   puts row
