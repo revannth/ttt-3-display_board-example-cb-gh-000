@@ -2,3 +2,10 @@
 
 
 def display_board
+  row = ["   |   |   "]
+  dash = ["-"]*11 
+  puts row
+  puts dash
+  puts row
+  puts dash
+  puts row
