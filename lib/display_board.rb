@@ -5,8 +5,8 @@ def display_board
   row = ["   |   |   "]
   dash = ["-"]*11 
   puts row
-  puts dash
+  print dash
   puts row
-  puts dash
+  print dash
   puts row
 end
